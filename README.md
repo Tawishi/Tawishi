@@ -5,7 +5,6 @@
 
 [![Tawishi's github stats](https://github-readme-stats.vercel.app/api?username=Tawishi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawishi&theme=dracula) <br>
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Tawishi1) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tawishisharma/) <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)

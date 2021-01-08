@@ -15,7 +15,7 @@ _Always ready and excited to learn new stuff_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)
 ![GitHub followers](https://img.shields.io/github/followers/Tawishi?style=social)
-![Hits](https://hit.yhype.me/github/profile?user_id=55306738)
+<!---![Hits](https://hit.yhype.me/github/profile?user_id=55306738)--->
 
 [![Tawishi's github stats](https://github-readme-stats.vercel.app/api?username=Tawishi)](https://github.com/anuraghazra/github-readme-stats)
 

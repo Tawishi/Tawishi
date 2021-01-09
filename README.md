@@ -15,9 +15,9 @@ _Always ready and excited to learn new stuff_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)
 ![GitHub followers](https://img.shields.io/github/followers/Tawishi?style=social)
-<!---![Hits](https://hit.yhype.me/github/profile?user_id=55306738)--->
+<!---![Hits](https://hit.yhype.me/github/profile?user_id=55306738)    merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast--->
 
-[![Tawishi's github stats](https://github-readme-stats.vercel.app/api?username=Tawishi)](https://github.com/anuraghazra/github-readme-stats)
+[![Tawishi's github stats](https://github-readme-stats.vercel.app/api?username=Tawishi&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/Tawishi) &nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Tawishi1) &nbsp;

@@ -12,6 +12,7 @@ _Right now I am exploring the_ :earth_asia: _of ***APIs***_
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="assets/assets/c++.svg" alt="c++" width="40" height="40"/> </a> 
   <a href="https://www.postman.com/" target="_blank"> <img src="assets/assets/postman.png" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.git.com/" target="_blank"> <img src="assets/assets/git.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="assets/assets/Figma-logo.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)

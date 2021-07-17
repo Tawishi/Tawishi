@@ -13,6 +13,7 @@ _Always ready and excited to learn new stuff_ <br>
   <a href="https://www.postman.com/" target="_blank"> <img src="assets/assets/postman.png" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.git.com/" target="_blank"> <img src="assets/assets/git.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="assets/assets/Figma-logo.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="assets/assets/rest.png" alt="rest-api" width="80" height="40"/> </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)

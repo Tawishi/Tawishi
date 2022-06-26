@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="250px"></a>
+<img align="right" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="240" height="240"></a>
 _I am an opensource enthusiast with experience in ***Django web development and project documentation***_ <br>
 _Always ready and excited to learn new stuff_ <br>
 <!-- _Right now I am exploring the_ :earth_asia: _of Java_ :coffee: <!--***APIs***_ -->

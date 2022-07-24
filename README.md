@@ -1,19 +1,23 @@
 <img align="right" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="240" height="240"></a>
 _I am an opensource enthusiast with experience in ***Django web development and project documentation***_ <br>
-_Always ready and excited to learn new stuff_ <br>
-<!-- _Right now I am exploring the_ :earth_asia: _of Java_ :coffee: <!--***APIs***_ -->
+_Always excited and ready to learn new stuff._ <br>
 
 
 **Languages and Tools:**  
 
 <p align="left"> 
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="assets/assets/c++.svg" alt="c++" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="assets/assets/python.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="assets/assets/javascript-736400__480.webp" alt="javascript" width="40"/> </a>
+  
+  <a href="" target="_blank"> <img src="assets/assets/html-css.png" alt="html/css" width="80"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="assets/assets/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="assets/assets/c++.svg" alt="c++" width="40" height="40"/> </a> 
+  <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="assets/assets/rest.png" alt="rest-api" width="80" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="assets/assets/React-icon.svg.png" alt="react-js" width="50"/> </a>
+  
   <a href="https://www.postman.com/" target="_blank"> <img src="assets/assets/postman.png" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.git.com/" target="_blank"> <img src="assets/assets/git.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="assets/assets/Figma-logo.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="assets/assets/rest.png" alt="rest-api" width="80" height="40"/> </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tawishi)
